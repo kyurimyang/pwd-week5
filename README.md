@@ -3,7 +3,7 @@
 아주대학교 주변 맛집을 소개하고 제보받는 커뮤니티 서비스입니다. (PWD 2026 2학기 5주차 실습)
 
 - GitHub: https://github.com/kyurimyang/pwd-week5
-- Vercel: (배포 후 URL 추가)
+- Vercel: https://pwd-week5-peach.vercel.app
 
 ## 주요 기능
 
